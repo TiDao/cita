@@ -4,7 +4,7 @@
 	branch = develop
 [submodule "cita-bft"]
 	path = cita-bft
-	url = https://github.com/citahub/cita-bft.git
+	url = https://github.com/TiDao/cita-bft.git
 	branch = develop
 [submodule "scripts/txtool/txtool/proto"]
 	path = scripts/txtool/txtool/proto

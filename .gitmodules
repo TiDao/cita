@@ -1,6 +1,6 @@
 [submodule "cita-forever"]
 	path = cita-forever
-	url = https://github.com/citahub/cita-forever.git
+	url = https://github.com/TiDao/cita-forever.git
 	branch = develop
 [submodule "cita-bft"]
 	path = cita-bft
